@@ -75,12 +75,12 @@ You can do one of the following
 
 - Submit [here](https://forms.gle/tga9uVGnEvTmFytp9), you can submit multiple times<br>
 
-- Ask questions [here]https://discord.gg/5NthDYE">here</a>
+- Ask questions [here](https://discord.gg/5NthDYE)
 
 - Solution reports then become available to public for all languages on the [website]("https://houseaya.herokuapp.com")
 
 - Time: Friday + Saturday + Sunday
 
-- Results are updated continuously [here]("https://Personal-Blog-Site-6--ayaderaghul.repl.co")
+- Results are updated continuously [here](https://Personal-Blog-Site-6--ayaderaghul.repl.co)
 
 - And you know what, though not a young novice anymore, I still tell you to have faith in humanity..
