@@ -24,14 +24,15 @@ For example, ```"invader." ---> "invader." "." ""```
 
 "hi" ---> (list "there" "you")
 "and" ---> (list "you" "it" "they")
-"go" ---> (list "there" "shopping" "hiking")
+"go" ---> (list "there" "shopping" "hiking" "shopping" "shopping")
+"" ---> (list "The" "On")
 
 ```
 
 **Step 4 200pts** Given word1, generate a word that statistically comes after word1. To do this, I pick out a random member from word1's bag of followers that I already collected in step 3.
 
 ```
-"go" ---> (list "there" "shopping" "hiking")
+"go" ---> (list "there" "shopping" "hiking" "shopping" "shopping")
 
 pick a random member: "shopping"
 ```
@@ -70,16 +71,16 @@ You can do one of the following
 
 - Accept multi-lang: Excel, R, Matlab, Python, Java, JS, Scala, Clojure, Scheme etc
 
-- Try to elaborate the steps in your code like I do. If you get stuck, ask. If you do not finish, submit anyway.
+- Try to elaborate the steps in your code like I do. If you get stuck, ask. If you do not finish, submit anyway. This time detailed feedback would be given to each language submission, so submit your R even if you only do step 1, submit your Python even if you only reach step 2..
 
 - Submit [here](https://forms.gle/tga9uVGnEvTmFytp9), you can submit multiple times<br>
 
+- Ask questions [here]https://discord.gg/5NthDYE">here</a>
+
+- Solution reports then become available to public for all languages on the [website]("https://houseaya.herokuapp.com")
+
 - Time: Friday + Saturday + Sunday
 
-- Results are updated continuously "https://Personal-Blog-Site-6--ayaderaghul.repl.co">here</a><br>
-    Ask questions <a target="_blank" href="https://discord.gg/5NthDYE">here</a> (we live online now, ask ask ask)<br>
-    Curious about us? See <a target="_blank"  href="https://houseaya.herokuapp.com">here</a>
-  </div>
+- Results are updated continuously [here]("https://Personal-Blog-Site-6--ayaderaghul.repl.co")
 
-
-- And you know what, though not a young novice anymore, I still tell you, have faith in humanity..
+- And you know what, though not a young novice anymore, I still tell you to have faith in humanity..
