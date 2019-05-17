@@ -1,6 +1,5 @@
 ; IMPORT LIBRARY
 (require 2htdp/batch-io)
-(require racket/hash)
 
 ; IMPORT DATA
 (define THEALCHEMIST (read-words "thealchemist"))
