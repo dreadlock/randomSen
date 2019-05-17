@@ -79,7 +79,7 @@ You can do one of the following
 
 - Ask questions [here](https://discord.gg/5NthDYE)
 
-- Solution reports then become available to public for all languages on the [website]("https://houseaya.herokuapp.com")
+- Solution reports then become available to public for all languages on the [website](https://houseaya.herokuapp.com)
 
 - Time: Friday + Saturday + Sunday
 
