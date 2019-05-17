@@ -1,5 +1,24 @@
 # randomSen
 
+## Principles
+
+- Accept multi-lang: Excel, R, Matlab, Python, Java, JS, Scala, Clojure, Scheme etc
+
+- There are multiple ways to do this exercise. Try to elaborate the steps in your code like I do. If you get stuck, ask. If you do not finish, submit anyway. If you finish everything early, submit your solution as a public service to other members :) This time detailed feedback would be given to each language submission, so submit your R even if you only do step 1, submit your Python even if you only reach step 2..
+
+- Submit [here](https://forms.gle/tga9uVGnEvTmFytp9), you can submit multiple times<br>
+
+- Ask questions [here](https://discord.gg/5NthDYE)
+
+- Solution reports then become available to public for all languages on the [website](https://houseaya.herokuapp.com)
+
+- Time: Friday + Saturday + Sunday
+
+- Results are updated continuously [here](https://Personal-Blog-Site-6--ayaderaghul.repl.co)
+
+- And you know what, though not a young novice anymore, I still tell you to have faith in humanity..
+
+
 ## Description
 
 This repo has a ```main.rkt``` file which contains all the code and two sample text (The alchemist and At the mountains of madness by Lovecraft). Basically I write a function to generate random sentence based on the input text. You can run it as follows:
@@ -75,20 +94,3 @@ You can do one of the following
 
 - Do whatever you want, show me the code.
 
-## Principles
-
-- Accept multi-lang: Excel, R, Matlab, Python, Java, JS, Scala, Clojure, Scheme etc
-
-- There are multiple ways to do this exercise. Try to elaborate the steps in your code like I do. If you get stuck, ask. If you do not finish, submit anyway. If you finish everything early, submit your solution as a public service to other members :) This time detailed feedback would be given to each language submission, so submit your R even if you only do step 1, submit your Python even if you only reach step 2..
-
-- Submit [here](https://forms.gle/tga9uVGnEvTmFytp9), you can submit multiple times<br>
-
-- Ask questions [here](https://discord.gg/5NthDYE)
-
-- Solution reports then become available to public for all languages on the [website](https://houseaya.herokuapp.com)
-
-- Time: Friday + Saturday + Sunday
-
-- Results are updated continuously [here](https://Personal-Blog-Site-6--ayaderaghul.repl.co)
-
-- And you know what, though not a young novice anymore, I still tell you to have faith in humanity..
