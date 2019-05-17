@@ -71,7 +71,7 @@ You can do one of the following
 
 - Accept multi-lang: Excel, R, Matlab, Python, Java, JS, Scala, Clojure, Scheme etc
 
-- Try to elaborate the steps in your code like I do. If you get stuck, ask. If you do not finish, submit anyway. This time detailed feedback would be given to each language submission, so submit your R even if you only do step 1, submit your Python even if you only reach step 2..
+- Try to elaborate the steps in your code like I do. If you get stuck, ask. If you do not finish, submit anyway. If you finish everything early, submit as a public service to other members :) This time detailed feedback would be given to each language submission, so submit your R even if you only do step 1, submit your Python even if you only reach step 2..
 
 - Submit [here](https://forms.gle/tga9uVGnEvTmFytp9), you can submit multiple times<br>
 
