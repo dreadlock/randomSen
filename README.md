@@ -2,9 +2,15 @@
 
 ## Description
 
-This repo has a ```main.rkt``` file which contains all the code and two sample text (The alchemist and At the mountains of madness by Lovecraft).
+This repo has a ```main.rkt``` file which contains all the code and two sample text (The alchemist and At the mountains of madness by Lovecraft). Basically I write a function to generate random sentence based on the input text. You can run it as follows:
 
-My ```main.rkt``` file does the following steps:
+```
+rlwrap racket
+> (load "main.rkt")
+> (say-something)
+```
+
+Anyway, this exercise is not about running my code, it is about writing your code. Try to read my code and write your own. My ```main.rkt``` file does the following steps:
 
 **Step 1 100pts** Import libraries to read data. The data looks like this:
 
